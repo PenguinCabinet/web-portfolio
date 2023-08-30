@@ -1,4 +1,6 @@
 ## Annict-Badge    
+![img](./img/Annict-Badge.png)
+
 [公開サイト](https://zenn.dev/penguincabinet/articles/762e7e201fd86a)
 
 ### 概要
@@ -20,6 +22,8 @@ Annictの記録したアニメ数をGitHubのプロフィールに載せるサ�
 |Frontendインフラ|なし|
 
 ## Vindex Core 20    
+![img](./img/Vindex.png)
+
 [公開サイト](https://vdex.penguincabinet.com)
 ### 概要
 Vindex Core 20はその日の上位20名のVtuberのスパチャ総額です。Vtuber業界の盛り上がりの指標にお使いください。    
@@ -38,7 +42,7 @@ Vindex Core 20はその日の上位20名のVtuberのスパチャ総額です。V
 |Frontendインフラ|Cloudflare Pages|    
 
 ## 文の間に単語いれーる   
-![a](https://raw.githubusercontent.com/PenguinCabinet/insert-word-in-sentence/master/explanation/anime_low.gif)
+![img](./img/iws.gif)
 
 [公開サイト](https://iws.penguincabinet.com)    
 [ソースコード](https://github.com/PenguinCabinet/insert-word-in-sentence)    
